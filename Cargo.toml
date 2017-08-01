@@ -9,6 +9,3 @@ rewrite_unwraps = { path = "rewrite_unwraps/", optional = true }
 [[example]]
 name = "rewrite"
 required-features = ["rewrite_unwraps"]
-
-[[example]]
-name = "plain"

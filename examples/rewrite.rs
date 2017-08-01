@@ -9,6 +9,8 @@
 
 extern crate rewrite_unwraps;
 
+use better_unwraps::UnwrapExt;
+
 // Procedural macros are imported like regular items
 use rewrite_unwraps::rewrite_unwraps;
 
